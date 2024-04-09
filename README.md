@@ -57,14 +57,6 @@
 
 <hr />
 
-## 📞Contact Me📞
-
-- 📧 Email: lovedev0829@gmail.com
-- 📻 Skype: live:.cid.47f7cfc878841721
-- 📠 Discord: naruto99829
-- ☎ Telegram: superdev0829
-
-
 
 <div align="center">
 

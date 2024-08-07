@@ -6,8 +6,8 @@
 
 ## 💎Senior Web Developer💎
 
-- 😄 I've already mastered Laravel, Golang, Node js, ASP.NET MVC
-- 😊 I'm also an expert in React, Vue js, Angular, Next.js, React Native.
+- 😄 I've already mastered Django, Laravel, PHP, Node js, ASP.NET MVC
+- 😊 I'm also an expert in React, Vue js, Angular, Nuxt.js, Next.js, React Native.
 - 🔭 I’m currently working on Artificial Intelligence.
 - 🌱 I’m currently learning deep learning and NLP.
 - 🔔 Ask me anything about web development.
